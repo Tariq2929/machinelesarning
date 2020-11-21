@@ -1,6 +1,5 @@
 title	author	output
 Practical Machine Learning Project Report
-by Hongzheng Wang
 html_document
 fig_height	fig_width
 9
