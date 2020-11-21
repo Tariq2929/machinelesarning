@@ -154,4 +154,4 @@ plot of chunk unnamed-chunk-12 2. Decision Tree Visualization
 
 treeModel <- rpart(classe ~ ., data=trainData, method="class")
 prp(treeModel) # fast plot
-plot of chunk unnamed-chunk-13
+plot of chunk unnamed-chunk-13.
